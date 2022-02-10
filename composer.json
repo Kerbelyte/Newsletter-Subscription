@@ -1,0 +1,17 @@
+{
+    "name": "dovile/newsletter",
+    "autoload": {
+        "psr-4": {
+            "Dovile\\Newsletter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dovile",
+            "email": "kerbelyte5@gmail.com"
+        }
+    ],
+    "require": {
+        "league/csv": "^9.8"
+    }
+}
